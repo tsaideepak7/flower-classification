@@ -3,4 +3,5 @@ Hackerearth flower nerd challenge
 
 
 
-kaggle kernal :
+kaggle kernal : https://www.kaggle.com/tsaideepak/flower-classification-cnn
+
